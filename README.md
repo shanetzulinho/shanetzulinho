@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shaneho.netlify.app](https://shaneho.netlify.app)
 
-- 💬 Ask me about **PHP Laravel framework**
+- 💬 Ask me about **PHP Laravel framework, JavaScript**
 
 - 📫 How to reach me **shanetzulinho@gmail.com**
-
-- 📄 Know about my experiences [https://shaneho.netlify.app/assets/ShaneHo_Resume.pdf](https://shaneho.netlify.app/assets/ShaneHo_Resume.pdf)
 
 - ⚡ Fun fact **I have done Route 66 road trip.**
 
